@@ -4,37 +4,37 @@
 
 <product aid="P1" category="Electronics">
     <name>Samsing Galaxy Pocket</name>
-    <price>$100</price>
+    <price>100</price>
     <quantity>50</quantity>
 </product>
 
 <product aid="P2" category="Clothing">
     <name>KHAKI BLUE CHECKED SHIRT</name>
-    <price>$20</price>
+    <price>20</price>
     <quantity>100</quantity>
 </product>
 
 <product aid="P3" category="Books">
     <name>NCERT CLASS 12 ORGANIC CHEMISTRY</name>
-    <price>$10</price>
+    <price>10</price>
     <quantity>45</quantity>
 </product>
 
 <product aid="P4" category="Electronics">
     <name>HTC ONE M9+</name>
-    <price>$200</price>
+    <price>200</price>
     <quantity>50</quantity>
 </product>
 
 <product aid="P5" category="Clothing">
     <name>BLACK SATIN GUCCI SHIRT (DKB COLLAB)</name>
-    <price>$50</price>
+    <price>50</price>
     <quantity>2</quantity>
 </product>
 
 <product aid="P6" category="Books">
     <name>NCERT CLASS 12 INORGANIC CHEMISTRY</name>
-    <price>$10</price>
+    <price>10</price>
     <quantity>40</quantity>
 </product>
 
